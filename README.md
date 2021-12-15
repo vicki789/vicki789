@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vicki789
+- 👋 Hi, I’m @vicky789
 - 👀 I’m interested in android development..
 - 🌱 I’m currently learning flutter/Dart..
 - 💞️ I’m looking to collaborate on ...
